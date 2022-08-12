@@ -1,5 +1,6 @@
 # RK-Carrier
 Carrierbord for using the Core-RK3588J SOM in the Framework Laptop.
+https://community.frame.work/t/rockchip-carrier-mainboard/21322
 
 ## Features:
 - M.2 for storage Gen 3x2
